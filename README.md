@@ -1,0 +1,1 @@
+# inlineresources-bower
