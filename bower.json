@@ -1,0 +1,33 @@
+{
+    "name": "inlineresources",
+    "version": "0.2.0",
+    "authors": [
+        "Christoph Burgmer <christoph.burgmer@gmail.com>"
+    ],
+    "main": [
+        "inlineresources.allinone.js",
+        "inlineresources.allinone.nocssom.js",
+        "inlineresources.js"
+    ],
+    "description": "Inlines style sheets, images, fonts and scripts in HTML documents. Works in the browser.",
+    "moduleType": [
+        "globals"
+    ],
+    "keywords": [
+        "inline",
+        "assets",
+        "resources",
+        "HTML",
+        "JS",
+        "CSS",
+        "webfonts"
+    ],
+    "license": "MIT",
+    "homepage": "http://www.github.com/cburgmer/inlineresources",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test"
+    ]
+}
